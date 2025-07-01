@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>College Attendance Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>College Attendance Tracker</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>Roll No</th>
+          <th>Name</th>
+          <th>Present</th>
+        </tr>
+      </thead>
+      <tbody id="studentTable">
+        <tr><td>101</td><td>Nirali Parmar</td><td><input type="checkbox" class="present" /></td></tr>
+        <tr><td>102</td><td>Riya Patel</td><td><input type="checkbox" class="present" /></td></tr>
+        <tr><td>103</td><td>Krishna Joshi</td><td><input type="checkbox" class="present" /></td></tr>
+        <tr><td>104</td><td>Mehul Shah</td><td><input type="checkbox" class="present" /></td></tr>
+        <tr><td>105</td><td>Dhruvi Rana</td><td><input type="checkbox" class="present" /></td></tr>
+        <tr><td>106</td><td>Harshita Dave</td><td><input type="checkbox" class="present" /></td></tr>
+        <tr><td>107</td><td>Aryan Mehta</td><td><input type="checkbox" class="present" /></td></tr>
+        <tr><td>108</td><td>Priya Shah</td><td><input type="checkbox" class="present" /></td></tr>
+        <tr><td>109</td><td>Sneha Soni</td><td><input type="checkbox" class="present" /></td></tr>
+        <tr><td>110</td><td>Rahul Thakkar</td><td><input type="checkbox" class="present" /></td></tr>
+      </tbody>
+    </table>
+    <button onclick="countPresent()">Count Present</button>
+    <p id="result"></p>
+    <footer>
+      <p>Developed by Nirali Parmar</p>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
