@@ -8,7 +8,7 @@ Ideal for classroom or small group usage.
 
 ## 🔗 Live Demo
 
-👉 [Try the Attendance Tracker](https://niraliparmar007.github.io/attendance-tracker/)  
+👉 [Try the Attendance Tracker](https://niraliparmar007.github.io)  
 *(Update the link if your repo name or path is different)*
 
 ---
