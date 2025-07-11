@@ -8,7 +8,7 @@ Ideal for classroom or small group usage.
 
 ## 🔗 Live Demo
 
-👉 [Try the Attendance Tracker](https://niraliparmar007.github.io) 
+👉 [Try the Attendance Tracker]https://niraliparmar007.github.io/attendance-system/
 
 ---
 
